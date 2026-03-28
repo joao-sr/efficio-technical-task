@@ -1,4 +1,4 @@
-# 🧪 Efficion technical task
+# 🧪 Efficio technical task
 This repository contains my submission for the Efficio Senior Data Engineer technical task. The project is organised into the four main deliverables:
 
 * Task 1 – Relational database schema design.
