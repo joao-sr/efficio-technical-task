@@ -7,7 +7,7 @@ Task 3 – Unit test for the join/enrichment logic (using pytest).
 Task 4 – Scaling considerations: two high level changes changes to handle much larger JSON files without modifying infrastructure.
 
 # Repository Structure
-.
+`.
 ├── data/                     # Sample input files (JSON)
 ├── documents/                # Additional reference documents
 ├── sandbox/notebooks/        # Exploratory analysis 
@@ -16,3 +16,4 @@ Task 4 – Scaling considerations: two high level changes changes to handle much
 ├── task3/                    # Unit test(s)
 ├── task4/                    # Scaling write‑up
 └── README.md                 
+`
