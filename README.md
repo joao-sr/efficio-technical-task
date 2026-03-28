@@ -1,10 +1,10 @@
 # 🧪 Efficion technical task
 This repository contains my submission for the Efficio Senior Data Engineer technical task. The project is organised into the four main deliverables:
 
-Task 1 – Relational database schema design.
-Task 2 – Production Python pipeline that ingests data_blocks.json and family_tree.json, merges the data, and loads it into a PostgreSQL database. **folder structure only**
-Task 3 – Unit test for the join/enrichment logic (using pytest).
-Task 4 – Scaling considerations: two high level changes changes to handle much larger JSON files without modifying infrastructure.
+* Task 1 – Relational database schema design.
+* Task 2 – Production Python pipeline that ingests data_blocks.json and family_tree.json, merges the data, and loads it into a PostgreSQL database. **folder structure only**
+* Task 3 – Unit test for the join/enrichment logic (using pytest).
+* Task 4 – Scaling considerations: two high level changes changes to handle much larger JSON files without modifying infrastructure.
 
 # 📁 Repository Structure
 ```bash
